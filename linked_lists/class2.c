@@ -6,4 +6,5 @@ int main(void)
 	int admission_number = 12345;
 
 	enterdetails(admission_number, names);
+	printf("details added\n");
 }
