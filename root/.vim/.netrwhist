@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/alx-low_level_programming/0x1C-makefiles'
+let g:netrw_dirhist_6='/AirBnB_clone/models'
+let g:netrw_dirhist_5='/patient'
+let g:netrw_dirhist_4='/1000_steps_to_the_valley/_arrays'
+let g:netrw_dirhist_3='/hospital_system'
+let g:netrw_dirhist_2='/1000_steps_to_the_valley/hospital_system'
+let g:netrw_dirhist_1='/hospital_system'
